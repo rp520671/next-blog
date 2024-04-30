@@ -12,7 +12,7 @@ const siteMetadata = {
     email: 'rp520671@gmail.com', 
     github: 'https://github.com/rp520671',
     twitter: 'https://twitter.com/RohanPatil52067',
-    linkedin: 'https://www.linkedin.com/in/rohan-patil-ra960097s',
+    linkedin: 'https://www.linkedin.com/in/rohan-patil-ra960097/',
     locale: 'en-US'
   }
   
